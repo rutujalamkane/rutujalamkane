@@ -16,7 +16,7 @@ I enjoy transforming raw datasets into reliable, analytics-ready data products a
 | Category | Tools & Technologies |
 |----------|---------------------|
 | Cloud | Azure, Azure Data Factory, Azure Databricks, ADLS Gen2 |
-| Data Processing | Apache Spark, PySpark, Spark SQL, Kafka |
+| Data Processing | Apache Spark, PySpark, Spark SQL|
 | Storage Formats | Delta Lake, Parquet, CSV |
 | Data Modeling | Star Schema, SCD, Medallion Architecture |
 | Databases | Azure SQL, MySQL |
